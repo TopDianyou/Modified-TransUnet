@@ -1,6 +1,6 @@
 Modified Multiscale Semantic Segmentation Network for Multi-level Seismic Damage Features of PC Structures
 Overview
-This repository provides an implementation of a modified multiscale semantic segmentation network designed to analyze multi-level seismic damage features in Prestressed Concrete (PC) structures. The network architecture incorporates specialized modifications to better capture hierarchical damage patterns caused by seismic events, improving upon existing semantic segmentation approaches for structural damage assessment.
+This repository provides an implementation of a modified multiscale semantic segmentation network designed to analyze multi-level seismic damage features in precast Concrete (PC) structures. The network architecture incorporates specialized modifications to better capture hierarchical damage patterns caused by seismic events, improving upon existing semantic segmentation approaches for structural damage assessment.
 
 Key Features
 Multiscale feature extraction mechanism tailored for seismic damage patterns
